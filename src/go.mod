@@ -1,4 +1,4 @@
-module ms_server_tool
+module ws_tool
 
 go 1.17
 
